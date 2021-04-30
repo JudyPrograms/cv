@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>⚙︎ JudyPrograms</title>
+  <meta name="description" content="JudyPrograms.com shows you how I can be a
+    valuable asset for your software development projects.">
+  <meta name="author" content="Judith Kats">
+  <meta name="keywords" content="Python,Java,SQL,HTML,CSS,Javascript" </head>
+
+<body>
+
+  <table cellspacing="40">
+    <tr>
+      <td><img src="myself.png" alt="Judith-Kats-profile-picture" width="400" height="400"></td>
+      <td>
+        <h1>Judith Kats</h1>
+        <em>
+          <h2>class JuniorDeveloper:</h2>
+        </em>
+        <p>
+          <em>'''I discovered my interest for IT in December 2020. Since then
+            I am studying daily to become a <strong>Software Developer</strong>. I fell in love
+            with <strong>Python</strong>. My eye was also caught by <strong>IoT Development</strong>
+            and <strong>Data Engineering</strong>. Through several courses I am training myself in
+            <strong>Front & Back End Development</strong>. This website is the first result.'''</em>
+        </p>
+        <p>
+          <a href="contact_me.html"><b>def</b> get_in_touch_here():</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <hr />
+
+  <h2>def __init__(self):</h2>
+
+  <h3>self.skills = {</h3>
+
+  <table cellspacing="20">
+    <tr>
+
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td><a href="https://www.python.org/">Python</a></td>
+            <td>★★★★☆</td>
+          </tr>
+          <tr>
+            <td>SQL</td>
+            <td>★★☆☆☆</td>
+          </tr>
+          <tr>
+            <td>HTML</td>
+            <td>★★★★☆</td>
+          </tr>
+          <tr>
+            <td>CSS</td>
+            <td>★★★☆☆</td>
+          </tr>
+          <tr>
+            <td>PHP</td>
+            <td>★☆☆☆☆</td>
+          </tr>
+        </table>
+      </td>
+
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>Sketchup</td>
+            <td>★★★☆☆</td>
+          </tr>
+          <tr>
+            <td>AutoCAD</td>
+            <td>★★★☆☆</td>
+          </tr>
+          <tr>
+            <td>Maya</td>
+            <td>★★★☆☆</td>
+          </tr>
+          <tr>
+            <td>Design Thinking</td>
+            <td>★★★☆☆</td>
+          </tr>
+          <tr>
+            <td>Data Analysis</td>
+            <td>★★★★★</td>
+          </tr>
+        </table>
+      </td>
+
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>Psychology</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>Philosophy</td>
+            <td>★★★★☆</td>
+          </tr>
+          <tr>
+            <td>Dutch</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>English</td>
+            <td>★★★★★</td>
+          </tr>
+          <tr>
+            <td>German</td>
+            <td>★★★★★</td>
+          </tr>
+        </table>
+      </td>
+
+    </tr>
+  </table>
+
+  <h3>}</h3>
+
+  <h3>self.education = {</h3>
+
+  <table cellspacing="20">
+    <tr>
+      <td><a href="https://www.novi.nl/full-stack-developer/">BSc Full-Stack Developer</a></td>
+      <td>NOVI Hogeschool Utrecht</td>
+      <td>2021</td>
+      <td>60 ects (in progress)</td>
+    </tr>
+    <tr>
+      <td><a href="https://nlleertdoor.bit-academy.nl/#opleidingen">Junior Data Engineer Track</a></td>
+      <td>Bit Academy Amsterdam</td>
+      <td>2021</td>
+      <td>10 wks online course (in progress)</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.udemy.com/course/100-days-of-code/">The Complete Python Pro Bootcamp 2021</a></td>
+      <td>London App Brewery @Udemy</td>
+      <td>2021</td>
+      <td>100 days challenge (in progress)</td>
+    </tr>
+    <tr>
+      <td>Minor Philosophy</td>
+      <td>University of Amsterdam</td>
+      <td>2012</td>
+      <td>126 ects</td>
+    </tr>
+    <tr>
+      <td>Bsc Psychology & Philosophy</td>
+      <td>University of Amsterdam</td>
+      <td>2010</td>
+      <td>200 ects, result: cum laude</td>
+    </tr>
+    <tr>
+      <td>Bsc Architecture</td>
+      <td>Delft University of Technology</td>
+      <td>2003</td>
+      <td>110 ects</td>
+    </tr>
+  </table>
+
+  <h3>}</h3>
+
+  <hr>
+
+  <!-- <h4>self.hard_skills = {</h4>
+    <ul>
+    <li>programming: [python, java, sql]</li>
+    <li>web_development: [html, css, javascript]</li>
+    <li>design_digital: [autocad, sketchup, adobe, maya]</li>
+    <li>design_general: [design_thinking, history_of_architecture, sketching, technical_drawing]</li>
+    <li>data_analysis: [R, applied_multivariate_analysis, {advanced_statistical_modeling: [factor_analysis, item_response_theory, latent_class_modeling, linear_structural_relations]}</li>
+    </ul>
+    <h4>}</h4> -->
+
+</body>
+
+</html>
