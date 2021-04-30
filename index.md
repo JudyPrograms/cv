@@ -41,7 +41,6 @@
 
   <table cellspacing="20">
     <tr>
-
       <td>
         <table cellspacing="10">
           <tr>
@@ -116,7 +115,6 @@
           </tr>
         </table>
       </td>
-
     </tr>
   </table>
 
