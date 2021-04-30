@@ -65,7 +65,6 @@
           </tr>
         </table>
       </td>
-
       <td>
         <table cellspacing="10">
           <tr>
@@ -90,7 +89,6 @@
           </tr>
         </table>
       </td>
-
       <td>
         <table cellspacing="10">
           <tr>
