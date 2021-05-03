@@ -1,0 +1,30 @@
+/* "#ebe3cc","#2b2821", "#624c3c", "#d9ac8b", "#e3cfb4", "#243d5c", "#5d7275", "#5c8b93", "#b1a58d", "#b03a48",
+              "#d4804d", "#e0c872", "#3e6958" */
+
+body {
+  background-color: #ebe3cc;
+  color: #2b2821;
+  font-family: monospace, "Lucida Console", "Courier New";
+}
+hr {
+  border-style: none;
+  width: 10%;
+  border-top: 3px dashed #5c8b93;
+}
+h1 {
+  color: #5d7275;
+}
+h2 {
+  color: #5d7275;
+}
+h3 {
+  color: #5d7275;
+}
+a {
+  color: #b03a48;
+  text-decoration: none;
+}
+a:hover{
+  color: #b03a48;
+  text-decoration: underline;
+}
